@@ -1,4 +1,4 @@
-![](./image/github_image)
+![](./image/github_image.png)
 
 # Hello World! 👋  Welcome to my Github Profile 🔭 !
 
