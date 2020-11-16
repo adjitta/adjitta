@@ -15,7 +15,7 @@
 
 [Data visualization](https://github.com/adjitta/ih_datamadpt0420_project_m2) Data visualization and exploratory analysis.
 
-### API'S
+### API's
 
 [API](https://github.com/adjitta/ih_datamadpt0420_project_m1) access to Swagger data created by Work Data Initiative.
 
